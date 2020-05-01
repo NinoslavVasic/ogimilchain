@@ -7,7 +7,7 @@
 <h2>Local blockchain: step by step</h2>
 
 
-1.  <p>Using <code>GETH</code> create 2 virtual nodes</p>
+1.  <p>Create accounts for two nodes for the network with a separate <code>datadir</code> for each using <code>GETH</code></p>
 
 ![](https://github.com/NinoslavVasic/ogimilchain/blob/master/screenshots/01-gen_acc.PNG)
 
@@ -42,7 +42,7 @@
 
    <p> NOTE: IT IS IMPORTANT TO CONNECT NODES  by entering enode of the node1 when running node2 mining</p>
 
-![](https://github.com/NinoslavVasic/ogimilchain/blob/master/screenshots/06-node2.PNG
+![](https://github.com/NinoslavVasic/ogimilchain/blob/master/screenshots/06-node2.PNG)
 
    <p> For purpose of connecting local blockchain to a digital wallet one have to create it. In this exercise, I used MyCrypto, protected with the mnemonic phrase. It is important to keep the wallet keys in a safe place in order to protect the funds in your wallet.</p>
 
