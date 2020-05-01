@@ -9,7 +9,7 @@
 
 1.  <p>Using <code>GETH</code> create 2 virtual nodes</p>
 
-![] (https://github.com/NinoslavVasic/ogimilchain/blob/master/screenshots/01-gen_acc.PNG)
+![](https://github.com/NinoslavVasic/ogimilchain/blob/master/screenshots/01-gen_acc.PNG)
 
 
 2.  <p>Create local network and Genesis Block using <code>puppeth</code></p>
